@@ -1,0 +1,17 @@
+.header {
+    background-color: rgb(43, 117, 127);
+    color: white;
+    padding: 24px;
+    text-align: center;
+}
+
+.pageTitle {
+    margin: 0;
+    font-size: 3rem;
+}
+
+.subTitle {
+    color: black;
+    font-size: 2.3rem;
+
+}

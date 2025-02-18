@@ -1,0 +1,5 @@
+.article {
+    background-color: aquamarine;
+    flex: 1 0 40%;
+    padding: 24px;
+}
