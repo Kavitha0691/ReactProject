@@ -3,3 +3,8 @@
     flex: 1 0 40%;
     padding: 24px;
 }
+
+.article img {
+    width: 100%;
+    height: auto;
+}
